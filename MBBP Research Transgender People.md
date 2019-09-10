@@ -83,7 +83,7 @@ Since I'm just a programmer, I don't know too much about the specifics of the me
 
 ---
 
-:bird: IMO simply avoiding gendered language in favor of clinical language - anyone needing Pap smears, discussing risks for cervical or breast cancer - should do the trick. Avoiding the pink/flowers/hyperfeminine others have mentioned is good.
+:bird: to :space_invader: IMO simply avoiding gendered language in favor of clinical language - anyone needing Pap smears, discussing risks for cervical or breast cancer - should do the trick. Avoiding the pink/flowers/hyperfeminine others have mentioned is good.
 
 I didn't avoid them because I didn't want them. I spent about 10 years scheduling PAPs only to be thrown out of the offices because of my presentation. Idk if you can address that experience at all but when it first happened, a couple of butch lesbian friends found me and took me out for coffee, explaining that their communities experience the same discrimination, from the same offices. The fear, originating in sexual assault, may well be compounded by the medical community itself.
 
