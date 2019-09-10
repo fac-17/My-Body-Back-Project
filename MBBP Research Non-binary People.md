@@ -2,7 +2,7 @@
 
 ---
 
-:space_invader: ## Making an app about cervical screening - want AFAB non-binary people to feel included - thoughts?
+## :space_invader: Making an app about cervical screening - want AFAB non-binary people to feel included - thoughts?
 
 Hi! I'm a programmer on a team that's making an app to encourage people to go for cervical screening. The actual charity involved has a website which specifically mentions women most of the time, but has a couple of mentions of "women and trans men" which, in context, sounds like an afterthought (plus, there's no mention of non-binary people or anyone else).
 
