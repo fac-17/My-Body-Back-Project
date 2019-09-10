@@ -62,3 +62,21 @@ I really appreciate the response! :)
 ---
 
 :space_invader: to :cloud: Oh, absolutely. While some people may say that colours and flowers shouldn't be gendered, in the context of marketing/advertising, that stuff basically screams, "Our target audience is women, and the rest of you have been forgotten." We definitely don't want that at all. What we're trying to achieve is super important for all genders (and people without a gender) as long as they have a cervix.
+
+---
+
+:bird: I hope you are also including information about whether the Pap smear providers are open to non cis females showing up for appointments.
+
+I have buckets of trauma around OBGYN appointments. (My first appointment was before I was out but I had been raped by my boyfriend the night before. It was incredibly painful and the provider lectured me about making her job harder because "is it that hard to skip tough sex the night before seeing your doctor? You knew I'd be doing this.")
+
+After that it was years and years to find anyone willing to do a Pap smear. The last one I had was when I married my husband and we didn't want to use condoms and it was required for an IUD.
+
+I had a total hysterectomy in 2018 for medically reasons. While we did two ultrasounds, the 9 months leading up to surgery, seeing my GP and multiple specialists and eventually an oncologist, I was never given a manual exam or Pap smear. Given what cis women go through when uterine cancer is suspected and a hysterectomy is on the table, I assume this is because I am trans.
+
+I would never have insisted on such an ex because of trauma but the medical professionals, unaware of said trauma, never offered one.
+
+---
+
+:space_invader: to :bird: I'm so sorry that happened to you; I don't know what to say. I hope you're okay.
+
+Since I'm just a programmer, I don't know too much about the specifics of the medical side (but I do know that medical professionals can really shock you with how sociopathic they can be). What I can say is that the charity we're working with run an event where people who have had bad experiences can go and get tested in a safe, welcoming environment. The problem we're trying to fix is that those events are oversubscribed, so the app aims to help people in a similar way, but I, too, have wondered how they'll manage to avoid medical professionals who deal with things in a damaging way. All I can tell you is that I and the rest of the programming team will really push for LGBTQ people to be considered when it comes to offering safe experiences, and I'll pass any concerns that I come across on to the team so that we can ensure that there's a viable solution.
