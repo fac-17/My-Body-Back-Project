@@ -2,7 +2,7 @@
 
 ---
 
-:space_invader: ## Need opinions from non-cis people with cervixes - making an app that encourages people to go for cervical screening.
+## :space_invader: Need opinions from non-cis people with cervixes - making an app that encourages people to go for cervical screening.
 
 (For anyone with a cervix - although opinions from all are welcome.)
 
