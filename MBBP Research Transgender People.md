@@ -90,3 +90,7 @@ I didn't avoid them because I didn't want them. I spent about 10 years schedulin
 ---
 
 :space_invader: to :bird: That's absolutely awful; I'm so sorry. I'm making a note of things like this; as programmers we may not be able to code some sense into these people, but we can discuss some kind of potential solution with the charity... some kind of education program for the staff, maybe? I'm not sure; that's more of their thing, but we can definitely push them.
+
+---
+
+:bird: to :space_invader: Access to sexual health is super complex. I just get frustrated when so much of it is put on the patient. No, not everyone is a good patient, but literally the only half way decent OBGYN care I ever got was from my ancient pediatrician who I trusted after the disaster that was my first OBGYN experience (she was trained in England shortly after WWII, ancient is accurate) and my oncologist.
