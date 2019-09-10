@@ -80,3 +80,13 @@ I would never have insisted on such an ex because of trauma but the medical prof
 :space_invader: to :bird: I'm so sorry that happened to you; I don't know what to say. I hope you're okay.
 
 Since I'm just a programmer, I don't know too much about the specifics of the medical side (but I do know that medical professionals can really shock you with how sociopathic they can be). What I can say is that the charity we're working with run an event where people who have had bad experiences can go and get tested in a safe, welcoming environment. The problem we're trying to fix is that those events are oversubscribed, so the app aims to help people in a similar way, but I, too, have wondered how they'll manage to avoid medical professionals who deal with things in a damaging way. All I can tell you is that I and the rest of the programming team will really push for LGBTQ people to be considered when it comes to offering safe experiences, and I'll pass any concerns that I come across on to the team so that we can ensure that there's a viable solution.
+
+---
+
+:bird: IMO simply avoiding gendered language in favor of clinical language - anyone needing Pap smears, discussing risks for cervical or breast cancer - should do the trick. Avoiding the pink/flowers/hyperfeminine others have mentioned is good.
+
+I didn't avoid them because I didn't want them. I spent about 10 years scheduling PAPs only to be thrown out of the offices because of my presentation. Idk if you can address that experience at all but when it first happened, a couple of butch lesbian friends found me and took me out for coffee, explaining that their communities experience the same discrimination, from the same offices. The fear, originating in sexual assault, may well be compounded by the medical community itself.
+
+---
+
+:space_invader: to :bird: That's absolutely awful; I'm so sorry. I'm making a note of things like this; as programmers we may not be able to code some sense into these people, but we can discuss some kind of potential solution with the charity... some kind of education program for the staff, maybe? I'm not sure; that's more of their thing, but we can definitely push them.
