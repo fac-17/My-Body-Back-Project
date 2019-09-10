@@ -2,7 +2,7 @@
 
 ---
 
-:space_invader: ## I'm a programmer on a team of people making an app about cervical screening (for anyone with a cervix). If you have time, could you answer some questions, please?
+## :space_invader: I'm a programmer on a team of people making an app about cervical screening (for anyone with a cervix). If you have time, could you answer some questions, please?
 
 Hi! As I mentioned in the title, we're making an app to encourage people to go for cervical screening. The actual charity involved has a website which specifically mentions women most of the time, but has a couple of mentions of "women and trans men" which, in context, sounds like an afterthought (plus, there's no mention of non-binary people or anyone else).
 
