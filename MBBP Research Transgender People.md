@@ -50,6 +50,10 @@ Thank you so much!
 
 ---
 
+:deciduous_tree: to :shoe: agreed COMPLETELY
+
+---
+
 :stew: In this context, is there a reason why these services couldn't be advertised as "Open to all", and those without cervixes would naturally filter themselves out?
 I say this only because of the general "Hmm..." feeling a lot of folks had when other companies started saying "menstruators" or "people who menstruate". It seems very clinical and objectifying to some, which could be a barrier to services.
 
@@ -198,3 +202,11 @@ And yes, please no pink and all the stupid girly stuff.
 This app is only about cervical screening, so we won't have to mention chests vs. breasts or bring up giving birth at least.
 
 And YES, absolutely no pink. I love pink, but not when it comes with a risk of making people feel forgotten. I've discussed that with the other programmers already and they agree. One issue is that the charity's logo is a butterfly... are butterflies girly, do you think? I'm not sure we'll have control over than aspect.
+
+---
+
+Ha. Right, of course it's a butterfly. Maybe if you rendered the butterfly a bit more realistic? Cartoon butterflies are definitely a bit much when it's about cervixes, which have no relationship to butterflies to my knowledge. I'd say just don't overemphasize the logo.
+
+---
+
+Unfortunately I don't think we can alter their logo. :( We can definitely make it smaller, though, and at least it's not pink!
