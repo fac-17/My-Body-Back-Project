@@ -34,6 +34,14 @@ That's useful information, thank you! I appreciate it.
 
 ---
 
+:mortar_board: Cervix and ovaries are medical terms that can't and shouldn't be avoided in this context. I put my trans stamp of approval on them.
+
+---
+
+:space_invader: to :mortar_board: I did wonder if that was the case for terms that are often used in a more medical context. Just for my own education, is it different or the same for words like "scrotum" and "foreskin"? And how about the whole "female" reproductive system in general? Thanks.
+
+---
+
 :flower_playing_cards: to :space_invader: I totally agree with what :shoe: said. Along with staying away from pink, it would be great if any pictures of people or avatars in the app are gender diverse. Personally, I'm not bothered by terms like cervix and ovaries, but others may have different thoughts there.
 
 While I think trying to be be gender-neutral is awesome, it's also nice when people specifically identify trans and non-binary people as being part of the category too. Something as simple as, 'If you're a trans man or a non-binary person with a cervix, this app is for you!' can be really affirming and show that you want to proactively create space for those communities in your app. Or if you have a 'Who needs cervical screening?' section, you can include something like, 'If you are a trans man or non-binary person with a cervix, regular screenings are still important!'
@@ -143,6 +151,16 @@ Good Example: https://www.youtube.com/watch?v=sVGimBeGoM0
 
 ---
 
+:gem: to :space_invader: God damn gate keepers lol Sad individuals that feel the need to make people feel less validated to make themselves feel more valid You don’t need to have a CS degree to be a good programmer. I actually admire the dedication it takes to be self taught.
+
+---
+
+:space_invader: to :gem: Sad enough that they downvoted this chain of comments!
+
+I'd love to learn more about CS fundamentals, in any case. :)
+
+---
+
 :sweet_potato: If the actual people doing the screenings aren't properly trained in treating trans patients, then no amount of flowery language will help with that, especially in cases where they have trauma making the whole process emotionally difficult to begin with. Inclusivity is nice and all, but it sounds like you're trying to promote things as all 100% trans friendly just to get people interested while not actually being able to guarantee it? Unfortunately, many doctors claim to be more qualified/respectful than they actually are, so maybe your project could help with that somehow? I'd really just like frank and honest information about what to expect so I could make my own decision about whether I could deal with the procedures and such.
 
 how does "people with a cervix" sound?
@@ -205,8 +223,32 @@ And YES, absolutely no pink. I love pink, but not when it comes with a risk of m
 
 ---
 
-Ha. Right, of course it's a butterfly. Maybe if you rendered the butterfly a bit more realistic? Cartoon butterflies are definitely a bit much when it's about cervixes, which have no relationship to butterflies to my knowledge. I'd say just don't overemphasize the logo.
+:heart_eyes_cat: to :space_invader: Ha. Right, of course it's a butterfly. Maybe if you rendered the butterfly a bit more realistic? Cartoon butterflies are definitely a bit much when it's about cervixes, which have no relationship to butterflies to my knowledge. I'd say just don't overemphasize the logo.
 
 ---
 
-Unfortunately I don't think we can alter their logo. :( We can definitely make it smaller, though, and at least it's not pink!
+:space_invader: to :heart_eyes_cat: Unfortunately I don't think we can alter their logo. :( We can definitely make it smaller, though, and at least it's not pink!
+
+---
+
+:mortar_board: Butterflys are chill, plus it's unavoidable in this context.
+
+---
+
+:tshirt: I don’t have anything really to add that hasn’t been covered, but that you so much for asking and for approaching this in the ways you have. You’re awesome! Good luck with the project
+
+---
+
+:space_invader: to :tshirt: Your gratitude makes me happy, but hopefully soon inclusivity will just be the norm!
+
+And thank you! :)
+
+---
+
+:gemini: It sounds fun, I went into this at because I have a cervix and was curious and not excluded. But, one issue I see with the term is that some people won't understand or know what a cervix is. If you are ok with that then go ahead, it's a creative way to be direct without excluding anyone that could be excluded, if not then maybe other alternative should be considered.
+
+Men and women are simple terms that everyone can understand, so I understand your dilema to make it more inclusive while being clear too.
+
+---
+
+:space_invader: to :gemini: Interesting point - it didn't occur to me that some people may not know what a cervix is, but I guess even some people's exact definition of words like "vagina" are a bit off. I'll have to make a survey to find out how many people don't know and wouldn't look it up. Thanks for your feedback!
