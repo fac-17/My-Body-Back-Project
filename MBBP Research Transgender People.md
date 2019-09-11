@@ -150,3 +150,29 @@ If you must use "person with X part" language, please make sure you're actually 
 :space_invader: to :sweet_potato: That's a concern that I had, too. I'm a programmer, not the person behind the app idea, so I don't know too much about how the project will work yet (especially since we haven't started other than a couple of meetings) - I'm just trying to do research in advance so I can actually be properly informed when talking about using more inclusive terminology. I'm not trying to promote the project as totally trans and LGBTQ-friendly; I have no idea what the medical professionals will be like. The only reason I'm asking opinions is that I noticed that the website for the charity that this is for isn't very inclusive, so I need to know the correct language to use when I suggest changes. And I agree that loads of doctors aren't respectful - I had a thought that maybe the app could warn people about that, since we want people to be comfortable, but it'll be even worse if they then have a bad experience right after the false sense of security.
 
 And I see what you're saying. A reason that "people with a cervix" is what we're leaning towards is that this app is specifically about cervical screening, and another reason is the fact that we get that not all women, trans men, non-binary people, and members of any group that may be left out if we list groups that way will have a cervix.
+
+---
+
+:sweet_potato: to :space_invader: Instead of "people with a cervix" and other such detached, dehumanizing phrases, I wonder if a more direct approach wouldn't come across more respectful? Something like "you and your cervix deserve better"? Second-person perspective doesn't require gendering, and feels more personal than some vague "beware the vagina-havers" message without a clear audience.
+
+---
+
+:space_invader: to :sweet_potato: I see what you mean, but I'm wondering about what will fit within the context. For example, this is a direct quote from the site that definitely needs changing for the app (we didn't write the site): "Our services are designed to help women a year or more after their assault(s)." I would have replaced the word "woman" with "anyone with a cervix," but I see your point. What would you rephrase it as?
+
+Thanks.
+
+---
+
+:heart_eyes_cat: Personally I have no problems with the words "women" or female" but to echo another comment, the whole "feminine hygiene/products" is really annoying. Using "chest" instead of "breast" I'm not sure is going to be understood by cis women who have related to their chests as breasts their whole lives. By that I mean literally--some women will not get that chest = breast because they locate their chest as only the sternum and space above the breasts. I think being clear about what you mean should probably override making people happy with words.
+
+"Have you given birth/been pregnant" is better than questions about "being a mother." "Do you ovulate?" Might be better than talking about fertility and fertility levels--though maybe that's just a personal preference--I feel like ovulating is part of my cycle which is a natural part of my body and since I don't want kids ever it's really presumptions to talk about my "fertility" as if that's what I'm (of course) going to do with my body. I keep very good track of my cycle to understand myself and my body better and it really has nothing to do with reproducing.
+
+And yes, please no pink and all the stupid girly stuff.
+
+---
+
+:space_invader: to :heart_eyes_cat: All good points - thank you!
+
+This app is only about cervical screening, so we won't have to mention chests vs. breasts or bring up giving birth at least.
+
+And YES, absolutely no pink. I love pink, but not when it comes with a risk of making people feel forgotten. I've discussed that with the other programmers already and they agree. One issue is that the charity's logo is a butterfly... are butterflies girly, do you think? I'm not sure we'll have control over than aspect.
