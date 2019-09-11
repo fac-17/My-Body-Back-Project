@@ -125,6 +125,20 @@ I didn't avoid them because I didn't want them. I spent about 10 years schedulin
 
 ---
 
+:chocolate_bar: Does the app link to local clinics? could there be a review systen that includes a section for inclusivity? That way people can look at their local clinics and see if other trans and gender non conforming people have had issues with certain clinics and avoid them?
+
+Edit: also with regards to the language use, I'd generally agree that using "people with cervixs" is overly objectifying and reductive for both women and trans people. Often just "people" will do, or if you really need to "women and trans and non binary individuals" but it's a bit wordy where I cant imagine why people wouldn't suffice.
+
+Personally I'd make sure not to avoid medical terminology because in this case patient education and understanding is very important.
+
+---
+
+:space_invader: to :chocolate_bar: That's the idea so far; hopefully it still works while our user base is small.
+
+The use of the phrase "people with a cervix" would essentially be for contexts where there's a need to specify - for example, we wouldn't be trying to tell people that EVERYONE needs to go for a smear test. I know it sounds like it should be obvious that not everyone needs to, but clarity is important. But yes, I see what you're saying, and we'll try some different phrasing out. The issue with "women and trans and non binary individuals" is that not all women, trans men and non-binary people have cervixes, and we'd specifically be wanting to address those who do.
+
+---
+
 :tophat: I was just watching a video form the YouTube channel "Mama Doctor Jones." She is an Ob/Gyn and she uses gender-neutral language in her videos. If you want to see a good example of inclusive language, watch one of her videos.
 
 Good Example: https://www.youtube.com/watch?v=sVGimBeGoM0
@@ -158,6 +172,10 @@ Good Example: https://www.youtube.com/watch?v=sVGimBeGoM0
 :space_invader: to :gem: Sad enough that they downvoted this chain of comments!
 
 I'd love to learn more about CS fundamentals, in any case. :)
+
+---
+
+:gem: to :space_invader: Tons of ways to learn those! I used the YouTube channel zooce to help me through my Data structures and algorithms classes, and there are tons of other channels dedicated to CS concepts! Learned most of it online and was tested on it in school like most of college lmao. It’s good knowledge to have, but not super common for me to use it these days.
 
 ---
 
