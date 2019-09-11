@@ -131,6 +131,14 @@ Good Example: https://www.youtube.com/watch?v=sVGimBeGoM0
 
 ---
 
+:gem: to :space_invader: Well shucks thanks! But might I add that not having a computer science degree doesn’t invalidate you as a software engineer! You’re working in the industry so you’re just as badass as anyone with a CS degree!
+
+---
+
+:space_invader: to :gem: Aww. :) That's so sweet, because some people are so adamant that we should feel less valid.
+
+---
+
 :sweet_potato: If the actual people doing the screenings aren't properly trained in treating trans patients, then no amount of flowery language will help with that, especially in cases where they have trauma making the whole process emotionally difficult to begin with. Inclusivity is nice and all, but it sounds like you're trying to promote things as all 100% trans friendly just to get people interested while not actually being able to guarantee it? Unfortunately, many doctors claim to be more qualified/respectful than they actually are, so maybe your project could help with that somehow? I'd really just like frank and honest information about what to expect so I could make my own decision about whether I could deal with the procedures and such.
 
 how does "people with a cervix" sound?
@@ -160,6 +168,20 @@ And I see what you're saying. A reason that "people with a cervix" is what we're
 :space_invader: to :sweet_potato: I see what you mean, but I'm wondering about what will fit within the context. For example, this is a direct quote from the site that definitely needs changing for the app (we didn't write the site): "Our services are designed to help women a year or more after their assault(s)." I would have replaced the word "woman" with "anyone with a cervix," but I see your point. What would you rephrase it as?
 
 Thanks.
+
+---
+
+:sweet_potato: to :space_invader: If it's clear from context that this is for pap smears and such, I don't think specifying "anyone with a cervix" is necessary for that particular statement. The original just says "women", so the simplest non-gendering substitution would just be "people". Maybe "victims" or "survivors" if you want to get fancy IDK.
+
+Edit: A more descriptive rewrite:
+
+Our services are designed to help those who've suffered assault(s) a year or more in the past which may have impacted their cervical health.
+
+---
+
+:space_invader: to :sweet_potato: Thanks for your help.
+
+Sorry if it seemed like I was "trying to promote things as all 100% trans friendly just to get people interested while not actually being able to guarantee it." I'm not trying to do that at all; I just wanted help replacing some of the language that could make people feel excluded.
 
 ---
 
