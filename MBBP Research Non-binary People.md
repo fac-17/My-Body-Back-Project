@@ -33,3 +33,43 @@ My pet hates:
 ---
 
 :space_invader: to :wolf: Fair enough - we wouldn't use the first two anyway, since cervixes can be removed and we're specifically addressing people with cervixes.
+
+---
+
+:sparkles: "People with a cervix" is ideal to me--it avoids unnecessary gendering and references the entire population you're targeting. If you want, you could also add something like "people with cervixes, which includes some trans men and nonbinary people, [insert message here]," though if you decide to include that, I'd only do it once or twice (because it can get really repetitive).
+
+Phrases I dislike: Born a woman/born female Biologically female
+
+Thank you for striving to be inclusive!
+
+---
+
+:space_invader: to :sparkles: Thanks, that's definitely do-able! :)
+
+---
+
+:ok_hand: yeah, it sounds fine. it kind of helps with making it sound more like an important health issue than an embarrassing genitals issue, too. "if you have a cervix, you need to check it!" so you are thinking about, like, taking good care of your cervix.
+
+btw, "people with a cervix" sounds kind of weird when you use it too much in a row. switch it up with "everyone" and "folks", "owns a cervix" and "has a cervix", etc
+
+sometimes it's still OK to just say women when you are talking about general issues, political things or statistics. like calling reproductive rights a women's rights issue, and women's colleges that also accept trans people that aren't women. in this usage "women" is just a catchy short-hand for a huge varied population anyways, so the actual members are clarified later in the description.
+
+---
+
+:space_invader: to :ok_hand: Awesome, thanks for responding! I appreciate it.
+
+---
+
+:surfer: Totally agree with this comment. Switching up the terms makes it feel way more natural and more like you know what you are talking about. People will feel more comfortable if they think you are comfortable!
+
+---
+
+:space_invader: to :surfer: Good point!
+
+---
+
+:ok_hand: oh, by the way, don't use AFAB as a concrete replacement for female-bodied. it's more a social term and doesn't correlate well with biology. (e.g. a baby with a vagina and functioning testes might be AFAB but develop phenotypically male). phenotype is a handy term too. or typically-female body. honestly, if you just alternate the terminology you're using a lot, it should become clear who you are talking about without being super hurtful. like a venn diagram of adjectives
+
+---
+
+:space_invader: to :ok_hand: Thanks for the info. I think in the sections where we clarify exactly what the app is for, the language will be more specific, but in most places we can just use "people."
