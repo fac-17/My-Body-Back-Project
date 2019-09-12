@@ -179,6 +179,8 @@ I'd love to learn more about CS fundamentals, in any case. :)
 
 ---
 
+NB ("nota bene", not "non-binary"): Checked this person's history and they are always an angry arsehole.
+
 :sweet_potato: If the actual people doing the screenings aren't properly trained in treating trans patients, then no amount of flowery language will help with that, especially in cases where they have trauma making the whole process emotionally difficult to begin with. Inclusivity is nice and all, but it sounds like you're trying to promote things as all 100% trans friendly just to get people interested while not actually being able to guarantee it? Unfortunately, many doctors claim to be more qualified/respectful than they actually are, so maybe your project could help with that somehow? I'd really just like frank and honest information about what to expect so I could make my own decision about whether I could deal with the procedures and such.
 
 how does "people with a cervix" sound?
