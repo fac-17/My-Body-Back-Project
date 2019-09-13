@@ -227,6 +227,12 @@ Sorry if it seemed like I was "trying to promote things as all 100% trans friend
 
 ---
 
+:space_invader: to :sweet_potato: "it sounds like you're trying to promote things as all 100% trans friendly just to get people interested while not actually being able to guarantee it"
+
+I've just been re-reading the feedback from these discussions, and I don't agree with this point at all. Our goal is to create an app that helps sexual assault survivors to go for cervical screening, as it has been found that they, as a group, are less likely to, whilst also being more at risk. This is an important problem that needs addressing. We've also considered the fact that a lot of materials regarding cervical screening only use the term "women," and this needs to change. This is why I'm asking for help regarding the best phrasing. It's not some kind of marketing ploy; the app hasn't even been made, and I didn't name it. And, for the record, I would never make false claims about a medical professional being LGBTQ-friendly if I didn't know that they were.
+
+---
+
 :heart_eyes_cat: Personally I have no problems with the words "women" or female" but to echo another comment, the whole "feminine hygiene/products" is really annoying. Using "chest" instead of "breast" I'm not sure is going to be understood by cis women who have related to their chests as breasts their whole lives. By that I mean literally--some women will not get that chest = breast because they locate their chest as only the sternum and space above the breasts. I think being clear about what you mean should probably override making people happy with words.
 
 "Have you given birth/been pregnant" is better than questions about "being a mother." "Do you ovulate?" Might be better than talking about fertility and fertility levels--though maybe that's just a personal preference--I feel like ovulating is part of my cycle which is a natural part of my body and since I don't want kids ever it's really presumptions to talk about my "fertility" as if that's what I'm (of course) going to do with my body. I keep very good track of my cycle to understand myself and my body better and it really has nothing to do with reproducing.
@@ -272,3 +278,13 @@ Men and women are simple terms that everyone can understand, so I understand you
 ---
 
 :space_invader: to :gemini: Interesting point - it didn't occur to me that some people may not know what a cervix is, but I guess even some people's exact definition of words like "vagina" are a bit off. I'll have to make a survey to find out how many people don't know and wouldn't look it up. Thanks for your feedback!
+
+---
+
+:lizard: I think "people with a cervix" sounds good.
+
+If the app helps connect people with doctors or clinics where they can get screenings, maybe try and include some that aren't offices that only service OBGYN patients, as sitting in a waiting room that's used only for an OBGYN office, and having people stare at you when you get called up by a masculine name, and if you even look masculine can be super uncomfortable, and is one of the reasons that keeps AFAB trans people from going to OBGYN's/gyno drs. If you do some research you can probably find some trans friendly OBGYN places as well that have been reviewed as such or who openly advertise as being trans friendly and you can suggest those places in your app as well.
+
+You could also have sections of the app that help suggest things the trans person could say to their doctor when they go for a screening to help explain they're trans, and/or that they may be uncomfortable with having that part of their body messed with or even talked about. Just phrases they could practice saying to help them feel more confident. Something like that.
+
+Maybe even a buddy system, where people who don't have anyone to go with them to such a doctor or screening, but who are scared to go alone can get matched up with someone else who either is offering to go and be their support, or who also needs to get a screening themselves. Though I'm not sure how this would work, and I'm not sure how you'd avoid negative/phobic/or even chasery people if you made trans specific options for searching for a buddy to go with you. Maybe something like when you ask if someone wants to opt into the buddy system it can ask them if they're offering themselves as a buddy, looking for a buddy, or both, and ask if they're open to buddying up with transmasc people. That way if others using the app who don't like trans people for whatever reason don't want to be paired with a trans person they can just not check that box, and then that helps the trans people looking for a buddy not get stuck with someone who might not be expecting to go to an OBGYN office with a masculine presenting person. ...Though I don't really know how this would work logistically lol.
