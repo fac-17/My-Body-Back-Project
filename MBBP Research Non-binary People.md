@@ -28,6 +28,15 @@ My pet hates:
 
 ---
 
+:musical_note: to :space_invader: I agree with what everyone else here is saying--but also I really want to thank you for the work you're doing! This is (unfortunately) a topic that's personally relevant and I am very happy to hear that you/your team are trying to be as inclusive as possible for something that's already an uncomfortable topic
+
+---
+
+
+:space_invader: to :musical_note: No worries at all - it's the bare minimum! It's important to have this test done (between certain ages), so we can't have people being excluded based on gender. Hopefully we succeed in making everyone who needs the test feel welcome. :)
+
+---
+
 :wolf: to :full_moon: I wouldn't use female-bodied. Assigned female at birth (afab) or people with a cervix is probably best.
 
 ---
